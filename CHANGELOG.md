@@ -1,5 +1,10 @@
 # Histórico de versões
 
+## 1.2 · 31/10/2026
+- Todas as citações de lei do conteúdo e dos comentários do simulado viraram links: um clique abre um pop-up com o texto do artigo.
+- Os textos foram extraídos do texto compilado oficial do Planalto, sem os trechos revogados, com link para a fonte.
+- Atualização: o art. 63, §1º, do CPC aparece na redação da Lei 14.879/2024.
+
 ## 1.1 · 27/10/2026
 - Campo de busca no sumário: procura em todas as unidades, na revisão e no glossário, ignorando acentos.
 - Clique num resultado (ou use as setas e Enter) para ir direto ao trecho; atalho: tecla / para buscar e Esc para limpar.
