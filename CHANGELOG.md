@@ -1,5 +1,11 @@
 # Histórico de versões
 
+## 1.3 · 03/11/2026
+- Revisão do simulado após auditoria externa.
+- Nascituro: questões sobre a teoria da personalidade condicionada, o natimorto e os alimentos gravídicos reescritas para distinguir lei, jurisprudência e doutrina.
+- REsp 1.415.727: corrigido o titular do direito ao DPVAT (a gestante, beneficiária do seguro), também no texto da unidade.
+- Morte real, eleição de foro (ressalva consumerista do art. 63, §1º, do CPC) e navios e aeronaves: enunciados e alternativas reescritos.
+
 ## 1.2 · 31/10/2026
 - Todas as citações de lei do conteúdo e dos comentários do simulado viraram links: um clique abre um pop-up com o texto do artigo.
 - Os textos foram extraídos do texto compilado oficial do Planalto, sem os trechos revogados, com link para a fonte.
