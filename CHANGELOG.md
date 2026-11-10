@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## 1.4 · 10/11/2026
+- Nova seção Avaliação Autoinstrucional, com roteiro de estudo do texto-base da A.A.I. (SCHREIBER, Anderson. Direitos da Personalidade. 2. ed. Atlas, 2013, cap. 4, "Direito à Imagem"), tópico por tópico, com casos e parâmetros de ponderação.
+- O texto integral do capítulo não é reproduzido no site público, por ser obra protegida por direitos autorais; a seção remete ao PDF da disciplina.
+- Simulado da A.A.I. com 30 questões inéditas no nível da OAB, filtro por tema e comentário com o tópico do capítulo de origem.
+- Atualizações posteriores ao livro: ADI 4.815 (STF, 2015), Súmula 403 do STJ e art. 21 do Marco Civil da Internet.
+- Pop-ups com o texto oficial de novos dispositivos: CF, art. 5º, IX e XIV, e art. 220; ECA, art. 143; Lei 12.965/2014, art. 21.
+
 ## 1.3 · 03/11/2026
 - Revisão do simulado após auditoria externa.
 - Nascituro: questões sobre a teoria da personalidade condicionada, o natimorto e os alimentos gravídicos reescritas para distinguir lei, jurisprudência e doutrina.
