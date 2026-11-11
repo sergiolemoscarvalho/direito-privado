@@ -1,5 +1,9 @@
 # Histórico de versões
 
+## 1.5 · 10/11/2026
+- Avaliação Autoinstrucional: novo quadro "Resumo para a prova", com os pontos principais do capítulo de Schreiber em uma tabela de revisão rápida.
+- Lista das pegadinhas mais prováveis sobre o direito à imagem.
+
 ## 1.4 · 10/11/2026
 - Nova seção Avaliação Autoinstrucional, com roteiro de estudo do texto-base da A.A.I. (SCHREIBER, Anderson. Direitos da Personalidade. 2. ed. Atlas, 2013, cap. 4, "Direito à Imagem"), tópico por tópico, com casos e parâmetros de ponderação.
 - O texto integral do capítulo não é reproduzido no site público, por ser obra protegida por direitos autorais; a seção remete ao PDF da disciplina.
